@@ -32,3 +32,8 @@ Preventing the distribution of counterfeit drugs and medical devices
 Monitoring patients
 Providing data for electronic medical records systems
 
+# Youtube tutorial:
+Enginners and Electronics
+
+# Google sheet link:
+https://docs.google.com/spreadsheets/d/1rI-IexC5b-A529j6fOwtCEDwYaV8IvZr-VacUho-cnc/edit#gid=0
